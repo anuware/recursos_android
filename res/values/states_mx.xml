@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="state_large">
+        <item>Aguascalientes</item>
+        <item>Baja California</item>
+        <item>Baja California Sur</item>
+        <item>Campeche</item>
+        <item>Chiapas</item>
+        <item>Chihuahua</item>
+        <item>Coahuila de Zaragoza</item>
+        <item>Colima</item>
+        <item>Ciudad de México</item>
+        <item>Durango</item>
+        <item>Guanajuato</item>
+        <item>Guerrero</item>
+        <item>Hidalgo</item>
+        <item>Jalisco</item>
+        <item>Mexico</item>
+        <item>Michoacan</item>
+        <item>Morelos</item>
+        <item>Nayarit</item>
+        <item>Nuevo Leon</item>
+        <item>Oaxaca</item>
+        <item>Puebla</item>
+        <item>Queretaro</item>
+        <item>Quintana Roo</item>
+        <item>San Luis Potosi</item>
+        <item>Sinaloa</item>
+        <item>Sonora</item>
+        <item>Tabasco</item>
+        <item>Tamaulipas</item>
+        <item>Tlaxcala</item>
+        <item>Veracruz</item>
+        <item>Yucatan</item>
+        <item>Zacatecas</item>
+        <item>Nacido en el extranjero</item>
+    </array>
+    
+    <array name="state_upper">
+        <item>AGUASCALIENTES</item>
+        <item>BAJA CALIFORNIA</item>
+        <item>BAJA CALIFORNIA</item>
+        <item>CAMPECHE</item>
+        <item>COAHUILA</item>
+        <item>COLIMA</item>
+        <item>CHIAPAS</item>
+        <item>CHIHUAHUA</item>
+        <item>DISTRITO FEDERAL</item>
+        <item>DURANGO</item>
+        <item>GUANAJUATO</item>
+        <item>GUERRERO</item>
+        <item>HIDALGO</item>
+        <item>JALISCO</item>
+        <item>MÉXICO</item>
+        <item>MICHOACÁN</item>
+        <item>MORELOS</item>
+        <item>NAYARIT</item>
+        <item>NUEVO LEÓN</item>
+        <item>OAXACA</item>
+        <item>PUEBLA</item>
+        <item>QUERÉTARO</item>
+        <item>QUINTANA ROO</item>
+        <item>SAN LUIS POTOSÍ</item>
+        <item>SINALOA</item>
+        <item>SONORA</item>
+        <item>TABASCO</item>
+        <item>TAMAULIPAS</item>
+        <item>TLAXCALA</item>
+        <item>VERACRUZ</item>
+        <item>YUCATÁN</item>
+        <item>ZACATECAS</item>
+        <item>NACIDO EN EL EXTRANJERO</item>
+    </array>
+    
+    <array name="state_short">
+        <item>AS</item>
+        <item>BC</item>
+        <item>BS</item>
+        <item>CC</item>
+        <item>CL</item>
+        <item>CM</item>
+        <item>CS</item>
+        <item>CH</item>
+        <item>DF</item>
+        <item>DG</item>
+        <item>GT</item>
+        <item>GR</item>
+        <item>HG</item>
+        <item>JC</item>
+        <item>MC</item>
+        <item>MN</item>
+        <item>MS</item>
+        <item>NT</item>
+        <item>NL</item>
+        <item>OC</item>
+        <item>PL</item>
+        <item>QT</item>
+        <item>QR</item>
+        <item>SP</item>
+        <item>SL</item>
+        <item>SR</item>
+        <item>TC</item>
+        <item>TS</item>
+        <item>TL</item>
+        <item>VZ</item>
+        <item>YN</item>
+        <item>ZS</item>
+        <item>NE</item>
+    </array>
+</resources>
